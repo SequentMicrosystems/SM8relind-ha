@@ -1,0 +1,13 @@
+{
+	"domain": "SM8relind",
+	"name": "Sequent Microsystems Eight Relays Integration",
+	"version": "1.0.0",
+	"integration_type": "device",
+	"documentation": "https://github.com/SequentMicrosystems/SM8relind-ha",
+	"issue_tracker": "https://github.com/SequentMicrosystems/SM8relind-ha",
+	"dependencies": [],
+	"after_dependencies": [],
+	"codeownders": ["3lv"],
+	"config_flow": false,
+	"requirements": ["SM8relind>=1.0.0"]
+}
